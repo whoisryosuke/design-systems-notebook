@@ -1,0 +1,25 @@
+{
+  "name": "design-systems-notebook-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006 -s ./public",
+    "build-storybook": "build-storybook"
+  },
+  "author": "Ryosuke",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.10.0",
+    "@storybook/addon-actions": "^5.3.19",
+    "@storybook/addon-docs": "^5.3.19",
+    "@storybook/addon-links": "^5.3.19",
+    "@storybook/addons": "^5.3.19",
+    "@storybook/react": "^5.3.19",
+    "babel-loader": "^8.1.0",
+    "react": "^16.13.1",
+    "react-is": "^16.13.1"
+  }
+}

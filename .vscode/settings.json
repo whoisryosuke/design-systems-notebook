@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": false,
+  // Format on save
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  }
+}

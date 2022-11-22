@@ -18,7 +18,7 @@
     "@storybook/addon-docs": "^5.3.19",
     "@storybook/addon-links": "^5.3.19",
     "@storybook/addons": "^5.3.19",
-    "@storybook/vue": "^5.3.19",
+    "@storybook/vue": "^6.5.13",
     "babel-loader": "^8.1.0",
     "babel-preset-vue": "^2.0.2"
   }
